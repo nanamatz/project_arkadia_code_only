@@ -10,7 +10,7 @@ It does not include the full project assets, levels, or settings.
 상명대학교 게임전공 캡스톤디자인
 
 ### 제작
-- Team NOGAK-KIMCHI, Department of Game Design and Development, Sangmyung University
+- 상명대학교 게임전공 - 팀 노각김치
 
 ### 플랫폼
 - Windows
