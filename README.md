@@ -22,14 +22,7 @@ It does not include the full project assets, levels, or settings.
 - Unreal Engine 5.2.1
 
 ### 트레일러 영상  
-[![Release Video](https://img.youtube.com/vi/3qXqNkvBfw/maxresdefault.jpg)](https://youtu.be/3qXqNkvBvfw)
-
-
-<!-- 기본 썸네일 -->
-[![Release Video](https://img.youtube.com/vi/3qXqNkvBvfw/0.jpg)](https://youtu.be/3qXqNkvBvfw)
 
 <!-- 고화질 썸네일 -->
 [![Release Video](https://img.youtube.com/vi/3qXqNkvBvfw/hqdefault.jpg)](https://youtu.be/3qXqNkvBvfw)
 
-<!-- 최대 해상도 썸네일 -->
-[![Release Video](https://img.youtube.com/vi/3qXqNkvBvfw/maxresdefault.jpg)](https://youtu.be/3qXqNkvBvfw)
