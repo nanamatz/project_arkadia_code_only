@@ -6,28 +6,22 @@
 > This repository contains only the code portion of the Unreal Engine project.
 It does not include the full project assets, levels, or settings.
 
-## Information
+## 소개
 상명대학교 게임전공 캡스톤디자인
 
-### Developer
+### 제작
 - Team NOGAK-KIMCHI, Department of Game Design and Development, Sangmyung University
 
-### Platform
+### 플랫폼
 - Windows
 
-### Genre
-- Turn-based Strategy
-- Role Playing
+### 장르
+- 턴제 RPG
 
-### Engine
+### 엔진
 - Unreal Engine 5.2.1
 
-### Videos
-
-#### Release  
-[![Release Video](https://img.youtube.com/vi/Rt0eyI-Z2Wc/0.jpg)](https://youtu.be/Rt0eyI-Z2Wc?si=FXc8GfaxgdVa49qT)
-
-#### Demo  
-[![Demo Video](https://img.youtube.com/vi/lG6C5NBfzpA/0.jpg)](https://youtu.be/lG6C5NBfzpA?si=ESSpAW-fmyoibGRX)
+### 트레일러 영상  
+[![Release Video](https://img.youtube.com/vi/Rt0eyI-Z2Wc/0.jpg)](https://youtu.be/3qXqNkvBvfw)
 
 
