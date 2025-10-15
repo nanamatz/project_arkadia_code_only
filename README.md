@@ -24,8 +24,6 @@ It does not include the full project assets, levels, or settings.
 
 ### Videos
 
-### 📽️ Videos
-
 #### Demo  
 [![Demo Video](https://img.youtube.com/vi/lG6C5NBfzpA/0.jpg)](https://youtu.be/lG6C5NBfzpA?si=ESSpAW-fmyoibGRX)
 
