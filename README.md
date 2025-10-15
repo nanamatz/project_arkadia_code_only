@@ -24,8 +24,10 @@ It does not include the full project assets, levels, or settings.
 
 ### Videos
 
+#### Release  
+[![Release Video](https://img.youtube.com/vi/Rt0eyI-Z2Wc/0.jpg)](https://youtu.be/Rt0eyI-Z2Wc?si=FXc8GfaxgdVa49qT)
+
 #### Demo  
 [![Demo Video](https://img.youtube.com/vi/lG6C5NBfzpA/0.jpg)](https://youtu.be/lG6C5NBfzpA?si=ESSpAW-fmyoibGRX)
 
-#### Release  
-[![Release Video](https://img.youtube.com/vi/Rt0eyI-Z2Wc/0.jpg)](https://youtu.be/Rt0eyI-Z2Wc?si=FXc8GfaxgdVa49qT)
+
