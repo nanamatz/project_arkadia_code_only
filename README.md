@@ -13,13 +13,13 @@ It does not include the full project assets, levels, or settings.
 - 상명대학교 게임전공 - 팀 노각김치
 
 ### 플랫폼
-- Windows
+- 윈도우
 
 ### 장르
 - 턴제 RPG
 
 ### 엔진
-- Unreal Engine 5.2.1
+- 언리얼엔진 5.2.1
 
 ### 트레일러 영상  
 
